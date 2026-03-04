@@ -344,4 +344,8 @@ MIT License - Libre para uso personal y comercial.
 ---
 
 **Hecho con ❤️ para John PC Service**#   j o h n - p c - s e r v i c e  
+<<<<<<< HEAD
+=======
+ #   j o h n p c w e d  
+>>>>>>> e0bb3dd9c5278503f172aac2ea5c368b58dc90fb
  
